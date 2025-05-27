@@ -1,12 +1,12 @@
+streamlit>=1.18
 pandas>=1.5
 requests
 beautifulsoup4
-python-whois
-streamlit>=1.18
 numpy>=1.23
 matplotlib
 seaborn
 xgboost
 scikit-learn
 tensorflow==2.11.0
-keras==2.11.0
+# keras==2.11.0  # Optional
+# python-whois   # Optional if causing errors
