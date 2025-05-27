@@ -8,5 +8,5 @@ seaborn
 xgboost
 scikit-learn
 tensorflow==2.11.0
-# keras   ← Only if using standalone keras, else use tf.keras
-# python-whois ← Optional (may still fail on cloud)
+keras        
+python-whois
