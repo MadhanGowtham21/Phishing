@@ -8,5 +8,5 @@ matplotlib
 seaborn
 xgboost
 scikit-learn
-tensorflow  # without the ==2.11.0 to allow pip flexibility
-keras        # keras is included in tensorflow >= 2.0, you might not need to install it separately
+tensorflow==2.11.0
+keras==2.11.0
