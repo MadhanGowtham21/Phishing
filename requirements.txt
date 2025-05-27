@@ -8,5 +8,5 @@ seaborn
 xgboost
 scikit-learn
 tensorflow==2.11.0
-# keras==2.11.0  # Optional
-# python-whois   # Optional if causing errors
+keras==2.11.0  # Optional
+python-whois   # Optional if causing errors
