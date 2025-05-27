@@ -1,12 +1,12 @@
-pandas
+pandas>=1.5
 requests
 beautifulsoup4
 python-whois
-streamlit
-numpy
+streamlit>=1.18
+numpy>=1.23
 matplotlib
 seaborn
 xgboost
 scikit-learn
-tensorflow
-keras
+tensorflow==2.11.0
+keras==2.11.0
