@@ -1,12 +1,12 @@
 streamlit>=1.18
-pandas>=1.5
+pandas
+numpy
 requests
 beautifulsoup4
-numpy>=1.23
 matplotlib
 seaborn
 xgboost
 scikit-learn
 tensorflow==2.11.0
-keras==2.11.0 
-python-whois  
+# keras   ← Only if using standalone keras, else use tf.keras
+# python-whois ← Optional (may still fail on cloud)
